@@ -191,6 +191,61 @@
         <td> <a href="https://athenalab.ai/">Athena</a> </td>
         <td>世界上首个具有先进认知架构和类人推理能力的自主通用人工智能，旨在解决复杂的现实世界挑战。</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/longevity-genie/just-chat">Just-Chat</a> </td>
+        <td> 让打造 LLM 智能体并与它对话变得简单、快速！</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/UnknownEnergy/chatgpt-api/blob/master/dist/assets/chatworm-72x72.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/UnknownEnergy/chatgpt-api/blob/master/README.md">Chatworm</a> </td>
+        <td> Chatworm 是一款支持多种前沿大语言模型的网页应用，开源，并提供 Android 版本。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://niceprompt.app/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://niceprompt.app">Nice Prompt</a></td>
+        <td> <a href="https://niceprompt.app">Nice Prompt</a> 可在代码编辑器中整理、分享和使用你的提示词，支持 Cursor 和 VSCode。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" alt="PHP Client" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-php/deepseek-php-client/blob/master/README.md">PHP Client</a> </td>
+        <td> Deepseek PHP Client 是一个稳健、由社区驱动的 PHP 客户端库，用于无缝集成 Deepseek API。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/tornikegomareli/DeepSwiftSeek/blob/main/logo.webp" alt="DeepSwiftSeek Logo" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/tornikegomareli/DeepSwiftSeek/blob/main/README.md">DeepSwiftSeek</a> </td>
+        <td> DeepSwiftSeek 是一个轻量而强大的 Swift 客户端库，能够很好地集成 DeepSeek API。它提供易于使用的 Swift 并发能力，支持聊天、流式输出、FIM（Fill-in-the-Middle，中间填充）补全等功能。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Integration" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-php/deepseek-laravel/blob/master/README.md">Laravel Integration</a> </td>
+        <td> Deepseek PHP 客户端的 Laravel 封装，便于 Laravel 应用无缝集成 Deepseek API。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/enricoros/big-AGI/refs/heads/v2-dev/public/favicon.ico" alt="Big-AGI" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/enricoros/big-AGI/blob/v2-dev/README.md">Big-AGI</a> </td>
+        <td><a href="https://big-agi.com/">Big-AGI</a> 是一套开创性的 AI 套件，旨在让每个人都能使用先进的人工智能。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://agenticflow.ai/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://agenticflow.ai/">AgenticFlow</a> </td>
+        <td> <a href="https://agenticflow.ai/">AgenticFlow</a> 是一个无代码平台，营销人员可以在其中构建智能体式 AI 工作流，用于上市（go-to-market）自动化，并以数百个日常应用作为 AI 智能体的工具。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/5e16beb0-993e-47bf-807e-7c8804b313a2" alt="Asp Client" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md">ASP Client</a> </td>
+        <td><a href="https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md">Deepseek.ASPClient</a> 是 Deepseek AI API 的轻量级 ASP.NET 封装，旨在简化 .NET 应用中由 AI 驱动的文本处理。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://prompt.16x.engineer/favicon.ico" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/16x_prompt/README.md">16x Prompt</a> </td>
+        <td> <a href="https://prompt.16x.engineer/">16x Prompt</a> 是一款带有上下文管理的 AI 编程工具。它帮助开发者管理源代码上下文，并为现有代码库上的复杂编程任务编写提示词。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://maxkb.cn/images/favicon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/1Panel-dev/MaxKB">MaxKB</a> </td>
+        <td> <a href="https://maxkb.cn/">MaxKB</a> 是一个开箱即用、灵活的 RAG 聊天机器人。 </td>
+    </tr>
 </table>
 
 
@@ -205,7 +260,7 @@
     <tr>
         <td> <img src="https://yomo.run/yomo-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/yomo/README.md">YoMo</a> </td>
-        <td> Stateful Serverless LLM Function Calling Framework with Strongly-typed Language Support </td>
+        <td> 支持强类型语言的有状态无服务器 LLM 函数调用框架 </td>
     </tr>
     <tr>
         <td> <img src="https://alice.fun/alice-logo.png" alt="图标" width="64" height="auto" /> </td>
@@ -216,6 +271,31 @@
         <td> <img src="https://avatars.githubusercontent.com/u/173022229" alt="图标" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/APRO-com">ATTPs</a> </td>
         <td> 一个用于Agent之间可信通信的基础协议框架，基于DeepSeek的Agent，可以接入<a href="https://docs.apro.com/attps">ATTPs</a>的SDK，获得注册Agent，发送可验证数据，获取可验证数据等功能，从而与其他平台的Agent进行可信通信。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/smolagents/mascot_smol.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/huggingface/smolagents/tree/main"> smolagents </a> </td>
+        <td> 构建优秀智能体的最简单方式。智能体编写 Python 代码来调用工具并编排其他智能体。优先支持 DeepSeek-R1 等开放模型！ </td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/superagentxai/superagentX/refs/heads/master/docs/logo/icononly_transparent_nobuffer.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/superagentx/README.md">SuperAgentX</a> </td>
+        <td>SuperAgentX：一个轻量级开源 AI 框架，用于构建具备通用人工智能（AGI）能力的自主多智能体应用。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://rig.rs/assets/favicon.png" alt="Rig (Rust)" width="64" height="auto" /> </td>
+        <td> <a href="https://rig.rs/">RIG</a> </td>
+        <td>使用 Rust 构建模块化、可扩展的 LLM 应用。</td>
+    </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/longevity-genie/chat-ui/11c6647c83f9d2de21180b552474ac5ffcf53980/static/geneticsgenie/icon-128x128.png" alt="Icon" width="64" height="auto"/> </td>
+        <td> <a href="https://github.com/longevity-genie/just-agents">Just-Agents</a> </td>
+        <td>一个轻量、直接的 LLM 智能体库——不过度设计，只求简单！</td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/Upsonic/Upsonic/blob/9d2e6d43b44defc6744817330625661ca3a2184e/Upsonic%20pp.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Upsonic/Upsonic">Upsonic</a> </td>
+        <td>Upsonic 提供先进的企业级智能体框架，你可以在其中编排 LLM 调用、智能体和计算机操作，从而以更高性价比完成任务。</td>
     </tr>
 </table>
 
@@ -248,6 +328,22 @@
         <td style="background-color: black"> <img src="docs/solana-agent-kit/assets/sendai-logo.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/ragflow/README.md"> Solana Agent Kit </a> </td>
         <td> 一个用于连接 AI 智能体到 Solana 协议的开源工具包。现在，任何使用 DeepSeek LLM 的智能体都可以自主执行 60+ 种 Solana 操作。 </td>
+    </tr>
+</table>
+
+
+### 合成数据整理
+
+<table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/bespokelabsai/curator/main/docs/Bespoke-Labs-Logomark-Red-crop.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/curator/README.md"> Curator </a> </td>
+        <td> 一个用于为大语言模型后训练整理大规模数据集的开源工具。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/user-attachments/assets/8455694b-c52e-40ec-847e-adf6a5ac064f" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Kiln-AI/Kiln"> Kiln </a> </td>
+        <td>生成合成数据集，并将 R1 模型蒸馏为自定义微调模型。 </td>
     </tr>
 </table>
 
@@ -360,6 +456,27 @@
 </table>
 
 
+### Visual Studio 插件
+
+<table>
+    <tr>
+        <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/comment2gpt/2.0.5/1739475434185/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT"> Comment2GPT </a> </td>
+        <td> 通过注释使用 OpenAI ChatGPT、Google Gemini、Anthropic Claude、DeepSeek 和 Ollama </td>
+    </tr>
+    <tr>
+        <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/codelens2gpt/2.0.5/1739475875714/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.CodeLens2GPT"> CodeLens2GPT </a> </td>
+        <td> 通过 CodeLens 使用 OpenAI ChatGPT、Google Gemini、Anthropic Claude、DeepSeek 和 Ollama </td>
+    </tr>
+    <tr>
+        <td> <img src="https://merryyellow.gallerycdn.vsassets.io/extensions/merryyellow/uca-lite/1.4.2/1739392928984/Microsoft.VisualStudio.Services.Icons.Default" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=MerryYellow.UCA-Lite"> Unity Code Assist Lite </a> </td>
+        <td> 为 Unity 脚本提供代码辅助 </td>
+    </tr>
+</table>
+
+
 ### neovim 插件
 
 <table>
@@ -399,6 +516,32 @@
         <td> <a href="https://plugins.jetbrains.com/plugin/24851-ai-git-commit">AI Git Commit</a> </td>
         <td> 使用AI生成git commit message的插件。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://plugins.jetbrains.com/files/21520/412905/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://ide.unitmesh.cc/quick-start"> AutoDev </a> </td>
+        <td> AutoDev 是 JetBrains IDE 中的开源 AI 编程助手。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://plugins.jetbrains.com/files/21410/561595/icon/pluginIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://plugins.jetbrains.com/plugin/21410-onegai-copilot"> Onegai Copilot </a> </td>
+        <td> Onegai Copilot 是 JetBrains IDE 中的 AI 编程助手。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://github.com/continuedev/continue/blob/main/docs/static/img/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/docs/continue/README.md"> Continue </a> </td>
+        <td> 开源 IDE 插件，使用 LLM 做你的编程助手 </td>
+    </tr>
+</table>
+
+
+### Discord 机器人
+
+<table>
+    <tr>
+        <td> <img src="https://geneplore.com/img/geneplore_color_logo_circular.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="docs/Geneplore AI/README.md"> Geneplore AI </a> </td>
+        <td> Geneplore AI 运营着规模最大的 AI Discord 机器人之一，现已支持 Deepseek v3 和 R1。 </td>
+    </tr>
 </table>
 
 
@@ -414,6 +557,33 @@
         <td> <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.svg" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://codeium.com/windsurf"> WindSurf </a> </td>
         <td> 另一个基于VS Code的AI Code编辑器，由Codeium出品 </td>
+    </tr>
+</table>
+
+
+### Emacs
+
+<table>
+    <tr>
+        <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/karthink/gptel"> gptel </a> </td>
+        <td>一个简单的 Emacs LLM 客户端</td>
+    </tr>
+    <tr>
+        <td> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/milanglacier/minuet-ai.el"> Minuet AI </a> </td>
+        <td>在代码中与智能共舞 💃</td>
+    </tr>
+</table>
+
+
+### 安全
+
+<table>
+    <tr>
+        <td> <img src="https://github.com/lukehinds/awesome-deepseek-integration/blob/codegate/docs/codegate/assets/codegate.png"  alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/stacklok/codegate/"> CodeGate </a> </td>
+        <td> CodeGate：安全的 AI 代码生成</td>
     </tr>
 </table>
 
@@ -461,4 +631,38 @@
         <td> <a href="https://github.com/suqicloud/wp-ai-chat"> WordPress ai助手 </a> </td>
         <td> 对接DeepSeek API用于WordPress站点的AI对话助手、AI文章生成、AI文章总结插件。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://avatars.githubusercontent.com/u/178783630?s=200&v=4" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/bolna-ai/bolna/"> Bolna </a> </td>
+        <td> 将 DeepSeek 用作对话式语音 AI 智能体的大语言模型</td>
+    </tr>
+    <tr>
+        <td> <img src="https://framerusercontent.com/images/TSKshn2UFdTyvUi85EDMIXrXgs.png?scale-down-to=512" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Portkey-AI/gateway"> Portkey AI </a> </td>
+        <td> Portkey 是一个统一 API，可用于与 1600 多种 LLM 模型交互，并为你的 DeepSeek 应用提供控制、可见性与安全性方面的高级工具。提供 Python 与 Node SDK。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://framerusercontent.com/images/8rF2JOaZ8l9AvM4H6ezliw44aI.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/BerriAI/litellm"> LiteLLM </a> </td>
+        <td> Python SDK 与代理服务器（LLM 网关），可用 OpenAI 格式调用 100 多种 LLM API。同样支持 DeepSeek AI 及费用追踪。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://i.postimg.cc/k5Z4YWjt/Screenshot-2025-01-23-at-6-08-01-PM.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/mem0ai/mem0"> Mem0 </a> </td>
+        <td> Mem0 通过智能记忆层增强 AI 助手，从而实现个性化交互，并随时间持续学习。 </td>
+    </tr>
+    <tr>
+        <td> <img src="https://langfuse.com/icon.svg" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://langfuse.com/docs/integrations/deepseek"> Langfuse </a> </td>
+        <td> 开源 LLM 可观测性平台，帮助团队协作调试、分析并迭代他们的 DeepSeek 应用。 </td>
+    </tr>
+    <tr>
+        <td> <img src="http://gptlocalhost.com/wp-content/uploads/2025/01/icon_1024.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://youtu.be/T1my2gqi-7Q"> GPTLocalost </a> </td>
+        <td> 在 Microsoft Word 中本地使用 DeepSeek-R1。无需推理费用。 </td>
+    </tr>
 </table>
+
+### Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=deepseek-ai/awesome-deepseek-integration&type=Date)](https://star-history.com/#deepseek-ai/awesome-deepseek-integration&Date)
