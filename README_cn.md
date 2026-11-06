@@ -283,8 +283,8 @@
         <td>SuperAgentX：一个轻量级开源 AI 框架，用于构建具备通用人工智能（AGI）能力的自主多智能体应用。</td>
     </tr>
     <tr>
-        <td> <img src="https://rig.rs/assets/favicon.png" alt="Icon" width="64" height="auto" alt="Rig (Rust)" /> </td>
-        <td> <a href="https://rig.rs/)](https://rig.rs/">RIG</a> </td>
+        <td> <img src="https://rig.rs/assets/favicon.png" alt="Rig (Rust)" width="64" height="auto" /> </td>
+        <td> <a href="https://rig.rs/">RIG</a> </td>
         <td>使用 Rust 构建模块化、可扩展的 LLM 应用。</td>
     </tr>
     <tr>
